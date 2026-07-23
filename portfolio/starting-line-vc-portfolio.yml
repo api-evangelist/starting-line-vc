@@ -1,0 +1,539 @@
+generated: '2026-07-21'
+method: searched
+source: https://www.startingline.vc/portfolio
+type: Portfolio
+summary:
+  portfolio_total: 64
+  in_network: 20
+  api_providers: 5
+  missing: 44
+  stubs_created: 0
+companies:
+- name: Attain Data
+  description: Real-time attribution and measurement platform for product-level SKU data.
+  sector: consumer-data
+  status: active
+  in_network: false
+  suggested_slug: attain-data
+  is_api_provider: false
+- name: Superpower
+  description: AI-powered consumer health application offering personalized medical guidance.
+  sector: consumer-health
+  status: active
+  in_network: false
+  suggested_slug: superpower
+  is_api_provider: false
+- name: Every
+  description: Multi-modal media company focused on AI coverage — newsletters and consulting.
+  sector: media
+  status: active
+  in_network: true
+  slug: every
+  is_api_provider: false
+  matched_by: name-slug
+- name: Made In Cookware
+  url: https://madeincookware.com
+  description: Direct-to-consumer cookware selling at 50-75% discounts by removing retail intermediaries.
+  sector: consumer-commerce
+  status: active
+  in_network: false
+  suggested_slug: made-in-cookware
+  is_api_provider: false
+- name: Aavia
+  description: Women's hormone health products, including a smart birth control case.
+  sector: consumer-health
+  status: active
+  in_network: false
+  suggested_slug: aavia
+  is_api_provider: false
+- name: Agentio
+  url: https://www.agentio.com
+  description: Creator-led product placement platform for YouTube advertisers.
+  sector: advertising
+  status: active
+  in_network: true
+  slug: agentio
+  matched_by: domain
+  is_api_provider: false
+- name: Airvet
+  url: https://airvet.com
+  description: Mobile veterinary consultation marketplace for pet owners.
+  sector: consumer-health
+  status: active
+  in_network: false
+  suggested_slug: airvet
+  is_api_provider: false
+- name: AnyCreek
+  url: https://anycreek.com
+  description: Outdoor guide discovery and booking platform.
+  sector: marketplace
+  status: active
+  in_network: false
+  suggested_slug: anycreek
+  is_api_provider: false
+- name: Athena Security
+  url: https://athena-security.com
+  description: Real-time weapon detection for security camera systems.
+  sector: security
+  status: active
+  in_network: false
+  suggested_slug: athena-security
+  is_api_provider: false
+- name: Boom
+  url: https://boompay.app
+  description: Affordable rental reporting for credit building at $2/month.
+  sector: consumer-fintech
+  status: active
+  in_network: true
+  slug: boom
+  is_api_provider: false
+  matched_by: name-slug
+- name: Brill
+  description: Brain-computer interface using optical signal technology.
+  sector: neurotech
+  status: active
+  in_network: false
+  suggested_slug: brill
+  is_api_provider: false
+- name: Buncha
+  url: https://www.gobuncha.com
+  description: Next-day grocery delivery.
+  sector: consumer-marketplace
+  status: active
+  in_network: true
+  slug: buncha
+  matched_by: domain
+  is_api_provider: false
+- name: Cameo
+  url: https://www.cameo.com
+  description: Celebrity and influencer marketplace for personalized video messages.
+  sector: consumer-marketplace
+  status: active
+  in_network: true
+  slug: cameo
+  matched_by: domain
+  is_api_provider: false
+- name: Cargado
+  url: https://cargado.com
+  description: Cross-border freight platform between US and Mexico.
+  sector: logistics
+  status: active
+  in_network: false
+  suggested_slug: cargado
+  is_api_provider: false
+- name: Catch Co / Mystery Tackle Box
+  url: https://mysterytacklebox.com
+  description: Fishing subscription boxes and retail products.
+  sector: consumer-commerce
+  status: active
+  in_network: false
+  suggested_slug: catch-co-mystery-tackle-box
+  is_api_provider: false
+- name: ChowBus
+  url: https://chowbus.com
+  description: Ethnic food delivery marketplace.
+  sector: consumer-marketplace
+  status: active
+  in_network: false
+  suggested_slug: chowbus
+  is_api_provider: false
+- name: Classet
+  url: https://classet.org
+  description: Skilled trades labor marketplace.
+  sector: marketplace
+  status: active
+  in_network: false
+  suggested_slug: classet
+  is_api_provider: false
+- name: Clyde
+  url: https://joinclyde.com
+  description: Extended warranty platform.
+  sector: insurtech
+  status: acquired
+  acquired_by: Cover Genius
+  in_network: false
+  suggested_slug: clyde
+  is_api_provider: false
+- name: CoverStar
+  url: https://coverstar.app
+  description: Social networking app for Gen Alpha users.
+  sector: consumer-social
+  status: active
+  in_network: false
+  suggested_slug: coverstar
+  is_api_provider: false
+- name: Curbside SOS
+  url: https://curbsidesos.com
+  description: Roadside assistance with optimized response times.
+  sector: marketplace
+  status: active
+  in_network: false
+  suggested_slug: curbside-sos
+  is_api_provider: false
+- name: Equilibria
+  url: https://myeq.com
+  description: CBD dosage expertise and guidance service.
+  sector: consumer-health
+  status: active
+  in_network: false
+  suggested_slug: equilibria
+  is_api_provider: false
+- name: Fondue
+  url: https://getfondue.com
+  description: Cashback rewards for Shopify stores.
+  sector: consumer-fintech
+  status: acquired
+  acquired_by: Postscript
+  in_network: false
+  suggested_slug: fondue
+  is_api_provider: false
+- name: Forum
+  description: Regulated exchange for attention-based asset trading.
+  sector: fintech
+  status: active
+  in_network: true
+  slug: forum
+  is_api_provider: true
+  matched_by: name-slug
+- name: Found
+  description: AI workflow transformation consulting with embedded engineers.
+  sector: ai-services
+  status: active
+  in_network: true
+  slug: found
+  is_api_provider: false
+  matched_by: name-slug
+- name: FlyHomes
+  url: https://flyhomes.com
+  description: Home buying guarantee offer service.
+  sector: proptech
+  status: active
+  in_network: true
+  slug: flyhomes
+  matched_by: domain
+  is_api_provider: false
+- name: Go
+  url: https://gosubscription.com
+  description: Online car leasing, 15-25% cheaper than dealers.
+  sector: consumer-marketplace
+  status: active
+  in_network: false
+  suggested_slug: go
+  is_api_provider: false
+- name: Heroic
+  description: NFT writing game with Hollywood screenwriters.
+  sector: web3
+  status: active
+  in_network: false
+  suggested_slug: heroic
+  is_api_provider: false
+- name: Hitch
+  url: https://hitch.net
+  description: Inter-city ridesharing marketplace.
+  sector: consumer-marketplace
+  status: active
+  in_network: false
+  suggested_slug: hitch
+  is_api_provider: false
+- name: Hoop
+  url: https://www.hoop.app
+  description: AI task management application.
+  sector: productivity
+  status: active
+  in_network: true
+  slug: hoop
+  matched_by: domain
+  is_api_provider: false
+- name: Hot Mic
+  url: https://hotmic.io
+  description: Alternative sports commentary service.
+  sector: media
+  status: active
+  in_network: false
+  suggested_slug: hot-mic
+  is_api_provider: false
+- name: Hungryroot
+  url: https://hungryroot.com
+  description: Vegetable-based fresh foods subscription.
+  sector: consumer-commerce
+  status: active
+  in_network: true
+  slug: hungryroot
+  matched_by: domain
+  is_api_provider: false
+- name: Hunt Club
+  url: https://huntclub.com
+  description: Community-based recruitment platform.
+  sector: hr-tech
+  status: active
+  in_network: false
+  suggested_slug: hunt-club
+  is_api_provider: false
+- name: Imgflip
+  description: Collaborative image, video, and GIF creation platform.
+  sector: media
+  status: active
+  in_network: true
+  slug: imgflip
+  matched_by: name-slug
+  is_api_provider: true
+- name: Klover
+  url: https://joinklover.com
+  description: Fee-free wage advance application.
+  sector: consumer-fintech
+  status: active
+  in_network: false
+  suggested_slug: klover
+  is_api_provider: false
+- name: M1 Finance
+  url: https://m1.com
+  description: Fee-free trading and investment platform.
+  sector: consumer-fintech
+  status: active
+  in_network: true
+  slug: m1-finance
+  matched_by: domain
+  is_api_provider: false
+- name: Mavely
+  url: https://mavely.life
+  description: Social shopping app.
+  sector: consumer-social
+  status: acquired
+  acquired_by: Later
+  in_network: false
+  suggested_slug: mavely
+  is_api_provider: false
+- name: Northstar Care
+  url: https://northstarcare.com
+  description: Virtual rehabilitation services.
+  sector: consumer-health
+  status: active
+  in_network: false
+  suggested_slug: northstar-care
+  is_api_provider: false
+- name: Outfit Labs
+  url: https://outfitlabs.com
+  description: AI-personalized travel booking.
+  sector: travel
+  status: active
+  in_network: false
+  suggested_slug: outfit-labs
+  is_api_provider: false
+- name: Path
+  url: https://pathcrypto.com
+  description: Cryptocurrency portfolio management across exchanges.
+  sector: web3
+  status: active
+  in_network: false
+  suggested_slug: path
+  is_api_provider: false
+- name: Pinch
+  url: https://bookpinch.com
+  description: At-home MedSpa booking marketplace.
+  sector: consumer-marketplace
+  status: active
+  in_network: false
+  suggested_slug: pinch
+  is_api_provider: false
+- name: Pineapple
+  description: Pre-seed venture capital fund.
+  sector: venture-capital
+  status: active
+  in_network: false
+  suggested_slug: pineapple
+  is_api_provider: false
+- name: Poplin
+  url: https://poplin.co
+  description: On-demand laundry service.
+  sector: consumer-marketplace
+  status: active
+  in_network: true
+  slug: poplin
+  matched_by: domain
+  is_api_provider: false
+- name: Pretty Litter
+  url: https://prettylitter.com
+  description: Smart cat litter with health alerts.
+  sector: consumer-commerce
+  status: acquired
+  acquired_by: Mars (~$1B)
+  in_network: false
+  suggested_slug: pretty-litter
+  is_api_provider: false
+- name: Rockstar
+  description: Apprenticeship marketplace for talent development.
+  sector: hr-tech
+  status: active
+  in_network: false
+  suggested_slug: rockstar
+  is_api_provider: false
+- name: Reclip
+  url: https://reclip.app
+  description: Authentic social memory platform.
+  sector: consumer-social
+  status: active
+  in_network: false
+  suggested_slug: reclip
+  is_api_provider: false
+- name: Rise Science
+  url: https://risescience.com
+  description: Sleep optimization coaching.
+  sector: consumer-health
+  status: active
+  in_network: false
+  suggested_slug: rise-science
+  is_api_provider: false
+- name: Shef
+  url: https://shef.com
+  description: Homemade meal marketplace from home kitchens.
+  sector: consumer-marketplace
+  status: active
+  in_network: true
+  slug: shef
+  matched_by: domain
+  is_api_provider: false
+- name: Soona
+  url: https://soona.co
+  description: Same-day professional content creation.
+  sector: creative-services
+  status: active
+  in_network: true
+  slug: soona
+  matched_by: domain
+  is_api_provider: false
+- name: Spot
+  url: https://meetwithspot.com
+  description: Walking meeting app.
+  sector: productivity
+  status: acquired
+  acquired_by: Labelbox
+  in_network: true
+  slug: spot
+  is_api_provider: true
+  matched_by: name-slug
+- name: SpotHero
+  url: https://spothero.com
+  description: Parking marketplace across 50+ cities.
+  sector: consumer-marketplace
+  status: active
+  in_network: true
+  slug: spothero
+  matched_by: domain
+  is_api_provider: true
+- name: Substack
+  url: https://substack.com
+  description: Independent writer monetization platform.
+  sector: media
+  status: active
+  in_network: true
+  slug: substack
+  matched_by: domain
+  is_api_provider: false
+- name: Sunbit
+  url: https://sunbit.com
+  description: Point-of-sale installment loans for retail.
+  sector: consumer-fintech
+  status: active
+  in_network: false
+  suggested_slug: sunbit
+  is_api_provider: false
+- name: SuperCircle
+  url: https://supercircle.world
+  description: Apparel take-back and upcycling service.
+  sector: consumer-commerce
+  status: active
+  in_network: true
+  slug: supercircle
+  matched_by: domain
+  is_api_provider: false
+- name: Stillwater
+  url: https://stillwater.life
+  description: Cannabinoid food science products.
+  sector: consumer-commerce
+  status: active
+  in_network: false
+  suggested_slug: stillwater
+  is_api_provider: false
+- name: Telly
+  url: https://freetelly.com
+  description: Free television distribution program.
+  sector: consumer-hardware
+  status: active
+  in_network: false
+  suggested_slug: telly
+  is_api_provider: false
+- name: The Players Trunk
+  url: https://theplayerstrunk.com
+  description: Athlete-to-fan collectible marketplace.
+  sector: consumer-marketplace
+  status: active
+  in_network: false
+  suggested_slug: the-players-trunk
+  is_api_provider: false
+- name: Troveo
+  url: https://troveo.ai
+  description: Licensed video content for AI training.
+  sector: ai-data
+  status: active
+  in_network: false
+  suggested_slug: troveo
+  is_api_provider: false
+- name: Truman's
+  url: https://trumans.com
+  description: Sustainable reusable cleaning products.
+  sector: consumer-commerce
+  status: active
+  in_network: false
+  suggested_slug: trumans
+  is_api_provider: false
+- name: Vault
+  description: Cryptocurrency key management platform.
+  sector: web3
+  status: active
+  in_network: true
+  slug: vault
+  is_api_provider: true
+  matched_by: name-slug
+- name: Ubiquitous Influence
+  url: https://ubiquitousinfluence.com
+  description: Influencer campaign management.
+  sector: advertising
+  status: acquired
+  acquired_by: Humanz
+  in_network: false
+  suggested_slug: ubiquitous-influence
+  is_api_provider: false
+- name: Umami Cart
+  url: https://umamicart.com
+  description: Ethnic grocery ordering.
+  sector: consumer-marketplace
+  status: acquired
+  acquired_by: Shef
+  in_network: false
+  suggested_slug: umami-cart
+  is_api_provider: false
+- name: Unchained Capital
+  url: https://unchained-capital.com
+  description: Crypto-backed loans and custody.
+  sector: web3
+  status: active
+  in_network: false
+  suggested_slug: unchained-capital
+  is_api_provider: false
+- name: Wumbo
+  url: https://wum.bo
+  description: Creator tokens on Solana.
+  sector: web3
+  status: acquired
+  acquired_by: Helium Labs
+  in_network: false
+  suggested_slug: wumbo
+  is_api_provider: false
+- name: Xena Workwear
+  url: https://xenaworkwear.com
+  description: Professional footwear and apparel for women in STEM.
+  sector: consumer-commerce
+  status: active
+  in_network: false
+  suggested_slug: xena-workwear
+  is_api_provider: false

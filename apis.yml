@@ -1,27 +1,95 @@
 aid: starting-line-vc
 name: Starting Line VC
-description: 'Starting Line VC is a company surfaced as a portfolio company of foundry-group and added
-  to the API Evangelist network as a stub for enrichment. Sector: venture-capital. This profile is a lead
-  awaiting the enrichment pipeline.'
-url: https://raw.githubusercontent.com/api-evangelist/starting-line-vc/refs/heads/main/apis.yml
-x-type: company
+description: >-
+  Starting Line is a Chicago-based early-stage venture capital firm founded in 2018 by Ezra Galston that
+  invests first checks into consumer technology startups nationwide. The firm concentrates on consumer AI,
+  consumer health and longevity, Gen Alpha / Gen Z, consumer mobile, consumer fintech, and consumer
+  marketplaces — as well as the infrastructure that supports them. Starting Line typically writes first
+  checks of $500K-$1.5M (optimally $750K-$1.25M into a ~$2.5M seed round), maintains a roughly 2:1
+  initial-to-reserves ratio, and makes about 6-8 new investments per year. It has raised three funds —
+  Fund I ($17M, 2018), Fund II ($30M, 2021), and Fund III ($30M, 2023) — and is headquartered in Chicago
+  with portfolio concentrations in Los Angeles, Austin, and New York. The firm is known for radical
+  transparency, open-sourcing its operating manual, quarterly LP letters, and mental health policy on
+  GitHub. Notable investments include Cameo, M1 Finance, Substack, Hungryroot, Shef, Soona, SpotHero
+  (acquired by Uber), and Pretty Litter (acquired by Mars for ~$1B).
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://www.startingline.vc/favicon.ico
+x-type: venture-capital
+x-category: Venture Capital
 x-source: vc-portfolio
 x-backed-by:
 - foundry-group
-x-tier: stub
-x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-21'
 tags:
-- Company
 - Venture Capital
+- Seed
+- Pre-Seed
+- Early Stage
+- Consumer
+- Consumer AI
+- Consumer Health
+- Consumer Fintech
+- Consumer Marketplaces
+- Gen Z
+- Gen Alpha
+- Chicago
+- North America
 apis: []
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
+  url: https://apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+  url: http://apisjson.org
+- FN: Starting Line VC
+  url: https://www.startingline.vc
 common:
 - type: Website
   url: https://www.startingline.vc
+- type: Portfolio
+  url: https://www.startingline.vc/portfolio
+- type: Portfolio
+  url: portfolio/starting-line-vc-portfolio.yml
+- type: Team
+  url: https://www.startingline.vc/team
+- type: Team
+  url: team/starting-line-vc-team.yml
+- type: Blog
+  url: https://www.startingline.vc/blog
+- type: GitHubOrganization
+  url: https://github.com/startinglinevc
+- type: Features
+  data:
+  - 'Stage: Early stage — first-check seed / pre-seed'
+  - 'Check size: $500K-$1.5M first check (optimal $750K-$1.25M into a ~$2.5M seed round)'
+  - 'Reserves: ~2:1 initial-to-reserves ratio'
+  - 'Sectors: consumer AI, consumer health/longevity, Gen Alpha/Gen Z, consumer mobile, consumer fintech, consumer marketplaces + supporting infrastructure'
+  - 'Geography: United States (HQ Chicago; concentrations in Los Angeles, Austin, New York)'
+  - 'Funds: Fund I $17M (2018), Fund II $30M (2021), Fund III $30M (2023)'
+  - 'Activity: ~6-8 new investments per year; 64+ portfolio companies'
+  - 'Track record: Fund I produced two unicorns and a ~$500M company from 16 investments'
+  - 'Founded: 2018 by Ezra Galston'
+  - 'Transparency: open-source operating manual, quarterly LP letters, and mental health policy on GitHub'
+  sources:
+  - https://www.startingline.vc/values
+  - https://www.startingline.vc/portfolio
+  - https://github.com/startinglinevc/Overview
+  updated: '2026-07-21'
+x-enrichment:
+  date: '2026-07-21'
+  status: enriched
+  artifacts_added: 2
+  pass: local-v1
