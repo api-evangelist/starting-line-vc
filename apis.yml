@@ -12,6 +12,17 @@ description: >-
   transparency, open-sourcing its operating manual, quarterly LP letters, and mental health policy on
   GitHub. Notable investments include Cameo, M1 Finance, Substack, Hungryroot, Shef, Soona, SpotHero
   (acquired by Uber), and Pretty Litter (acquired by Mars for ~$1B).
+deliveryModel:
+  model: unknown
+  open_source: false
+  commercial: false
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - none
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
