@@ -4,9 +4,9 @@ source: https://www.startingline.vc/portfolio
 type: Portfolio
 summary:
   portfolio_total: 64
-  in_network: 20
-  api_providers: 5
-  missing: 44
+  in_network: 21
+  api_providers: 3
+  missing: 43
   stubs_created: 0
 companies:
 - name: Attain Data
@@ -60,34 +60,36 @@ companies:
   description: Mobile veterinary consultation marketplace for pet owners.
   sector: consumer-health
   status: active
-  in_network: false
-  suggested_slug: airvet
+  in_network: true
   is_api_provider: false
+  slug: airvet
+  matched_by: domain
 - name: AnyCreek
   url: https://anycreek.com
   description: Outdoor guide discovery and booking platform.
   sector: marketplace
   status: active
-  in_network: false
-  suggested_slug: anycreek
+  in_network: true
   is_api_provider: false
+  slug: anycreek
+  matched_by: domain
 - name: Athena Security
   url: https://athena-security.com
   description: Real-time weapon detection for security camera systems.
   sector: security
   status: active
-  in_network: false
-  suggested_slug: athena-security
+  in_network: true
   is_api_provider: false
+  slug: athena-security
+  matched_by: domain
 - name: Boom
   url: https://boompay.app
   description: Affordable rental reporting for credit building at $2/month.
   sector: consumer-fintech
   status: active
-  in_network: true
-  slug: boom
+  in_network: false
   is_api_provider: false
-  matched_by: name-slug
+  suggested_slug: boom
 - name: Brill
   description: Brain-computer interface using optical signal technology.
   sector: neurotech
@@ -134,9 +136,10 @@ companies:
   description: Ethnic food delivery marketplace.
   sector: consumer-marketplace
   status: active
-  in_network: false
-  suggested_slug: chowbus
+  in_network: true
   is_api_provider: false
+  slug: chowbus
+  matched_by: domain
 - name: Classet
   url: https://classet.org
   description: Skilled trades labor marketplace.
@@ -199,10 +202,9 @@ companies:
   description: AI workflow transformation consulting with embedded engineers.
   sector: ai-services
   status: active
-  in_network: true
-  slug: found
+  in_network: false
   is_api_provider: false
-  matched_by: name-slug
+  suggested_slug: found
 - name: FlyHomes
   url: https://flyhomes.com
   description: Home buying guarantee offer service.
@@ -407,10 +409,9 @@ companies:
   sector: productivity
   status: acquired
   acquired_by: Labelbox
-  in_network: true
-  slug: spot
-  is_api_provider: true
-  matched_by: name-slug
+  in_network: false
+  is_api_provider: false
+  suggested_slug: spot
 - name: SpotHero
   url: https://spothero.com
   description: Parking marketplace across 50+ cities.
@@ -434,9 +435,10 @@ companies:
   description: Point-of-sale installment loans for retail.
   sector: consumer-fintech
   status: active
-  in_network: false
-  suggested_slug: sunbit
+  in_network: true
   is_api_provider: false
+  slug: sunbit
+  matched_by: domain
 - name: SuperCircle
   url: https://supercircle.world
   description: Apparel take-back and upcycling service.
@@ -490,10 +492,9 @@ companies:
   description: Cryptocurrency key management platform.
   sector: web3
   status: active
-  in_network: true
-  slug: vault
-  is_api_provider: true
-  matched_by: name-slug
+  in_network: false
+  is_api_provider: false
+  suggested_slug: vault
 - name: Ubiquitous Influence
   url: https://ubiquitousinfluence.com
   description: Influencer campaign management.
@@ -518,8 +519,9 @@ companies:
   sector: web3
   status: active
   in_network: false
-  suggested_slug: unchained-capital
+  suggested_slug: unchained-capital-com
   is_api_provider: false
+  x-name-collision: unchained-capital
 - name: Wumbo
   url: https://wum.bo
   description: Creator tokens on Solana.

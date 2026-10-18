@@ -1,4 +1,4 @@
-generated: '2026-07-22'
+generated: '2026-10-18'
 method: derived
 source_vc: starting-line-vc
 leads:
@@ -7,306 +7,299 @@ leads:
   suggested_slug: attain-data
   sector: consumer-data
   source_vc: starting-line-vc
-  source: ''
+  source: https://www.startingline.vc/portfolio
   stub_created: false
 - name: Superpower
   url: ''
   suggested_slug: superpower
   sector: consumer-health
   source_vc: starting-line-vc
-  source: ''
+  source: https://www.startingline.vc/portfolio
   stub_created: false
 - name: Made In Cookware
   url: https://madeincookware.com
   suggested_slug: made-in-cookware
   sector: consumer-commerce
   source_vc: starting-line-vc
-  source: ''
+  source: https://www.startingline.vc/portfolio
   stub_created: false
 - name: Aavia
   url: ''
   suggested_slug: aavia
   sector: consumer-health
   source_vc: starting-line-vc
-  source: ''
+  source: https://www.startingline.vc/portfolio
   stub_created: false
-- name: Airvet
-  url: https://airvet.com
-  suggested_slug: airvet
-  sector: consumer-health
+- name: Boom
+  url: https://boompay.app
+  suggested_slug: boom
+  sector: consumer-fintech
   source_vc: starting-line-vc
-  source: ''
-  stub_created: false
-- name: AnyCreek
-  url: https://anycreek.com
-  suggested_slug: anycreek
-  sector: marketplace
-  source_vc: starting-line-vc
-  source: ''
-  stub_created: false
-- name: Athena Security
-  url: https://athena-security.com
-  suggested_slug: athena-security
-  sector: security
-  source_vc: starting-line-vc
-  source: ''
+  source: https://www.startingline.vc/portfolio
   stub_created: false
 - name: Brill
   url: ''
   suggested_slug: brill
   sector: neurotech
   source_vc: starting-line-vc
-  source: ''
+  source: https://www.startingline.vc/portfolio
   stub_created: false
 - name: Cargado
   url: https://cargado.com
   suggested_slug: cargado
   sector: logistics
   source_vc: starting-line-vc
-  source: ''
+  source: https://www.startingline.vc/portfolio
   stub_created: false
 - name: Catch Co / Mystery Tackle Box
   url: https://mysterytacklebox.com
   suggested_slug: catch-co-mystery-tackle-box
   sector: consumer-commerce
   source_vc: starting-line-vc
-  source: ''
-  stub_created: false
-- name: ChowBus
-  url: https://chowbus.com
-  suggested_slug: chowbus
-  sector: consumer-marketplace
-  source_vc: starting-line-vc
-  source: ''
+  source: https://www.startingline.vc/portfolio
   stub_created: false
 - name: Classet
   url: https://classet.org
   suggested_slug: classet
   sector: marketplace
   source_vc: starting-line-vc
-  source: ''
+  source: https://www.startingline.vc/portfolio
   stub_created: false
 - name: Clyde
   url: https://joinclyde.com
   suggested_slug: clyde
   sector: insurtech
   source_vc: starting-line-vc
-  source: ''
+  source: https://www.startingline.vc/portfolio
   stub_created: false
 - name: CoverStar
   url: https://coverstar.app
   suggested_slug: coverstar
   sector: consumer-social
   source_vc: starting-line-vc
-  source: ''
+  source: https://www.startingline.vc/portfolio
   stub_created: false
 - name: Curbside SOS
   url: https://curbsidesos.com
   suggested_slug: curbside-sos
   sector: marketplace
   source_vc: starting-line-vc
-  source: ''
+  source: https://www.startingline.vc/portfolio
   stub_created: false
 - name: Equilibria
   url: https://myeq.com
   suggested_slug: equilibria
   sector: consumer-health
   source_vc: starting-line-vc
-  source: ''
+  source: https://www.startingline.vc/portfolio
   stub_created: false
 - name: Fondue
   url: https://getfondue.com
   suggested_slug: fondue
   sector: consumer-fintech
   source_vc: starting-line-vc
-  source: ''
+  source: https://www.startingline.vc/portfolio
+  stub_created: false
+- name: Found
+  url: ''
+  suggested_slug: found
+  sector: ai-services
+  source_vc: starting-line-vc
+  source: https://www.startingline.vc/portfolio
   stub_created: false
 - name: Go
   url: https://gosubscription.com
   suggested_slug: go
   sector: consumer-marketplace
   source_vc: starting-line-vc
-  source: ''
+  source: https://www.startingline.vc/portfolio
   stub_created: false
 - name: Heroic
   url: ''
   suggested_slug: heroic
   sector: web3
   source_vc: starting-line-vc
-  source: ''
+  source: https://www.startingline.vc/portfolio
   stub_created: false
 - name: Hitch
   url: https://hitch.net
   suggested_slug: hitch
   sector: consumer-marketplace
   source_vc: starting-line-vc
-  source: ''
+  source: https://www.startingline.vc/portfolio
   stub_created: false
 - name: Hot Mic
   url: https://hotmic.io
   suggested_slug: hot-mic
   sector: media
   source_vc: starting-line-vc
-  source: ''
+  source: https://www.startingline.vc/portfolio
   stub_created: false
 - name: Hunt Club
   url: https://huntclub.com
   suggested_slug: hunt-club
   sector: hr-tech
   source_vc: starting-line-vc
-  source: ''
+  source: https://www.startingline.vc/portfolio
   stub_created: false
 - name: Klover
   url: https://joinklover.com
   suggested_slug: klover
   sector: consumer-fintech
   source_vc: starting-line-vc
-  source: ''
+  source: https://www.startingline.vc/portfolio
   stub_created: false
 - name: Mavely
   url: https://mavely.life
   suggested_slug: mavely
   sector: consumer-social
   source_vc: starting-line-vc
-  source: ''
+  source: https://www.startingline.vc/portfolio
   stub_created: false
 - name: Northstar Care
   url: https://northstarcare.com
   suggested_slug: northstar-care
   sector: consumer-health
   source_vc: starting-line-vc
-  source: ''
+  source: https://www.startingline.vc/portfolio
   stub_created: false
 - name: Outfit Labs
   url: https://outfitlabs.com
   suggested_slug: outfit-labs
   sector: travel
   source_vc: starting-line-vc
-  source: ''
+  source: https://www.startingline.vc/portfolio
   stub_created: false
 - name: Path
   url: https://pathcrypto.com
   suggested_slug: path
   sector: web3
   source_vc: starting-line-vc
-  source: ''
+  source: https://www.startingline.vc/portfolio
   stub_created: false
 - name: Pinch
   url: https://bookpinch.com
   suggested_slug: pinch
   sector: consumer-marketplace
   source_vc: starting-line-vc
-  source: ''
+  source: https://www.startingline.vc/portfolio
   stub_created: false
 - name: Pineapple
   url: ''
   suggested_slug: pineapple
   sector: venture-capital
   source_vc: starting-line-vc
-  source: ''
+  source: https://www.startingline.vc/portfolio
   stub_created: false
 - name: Pretty Litter
   url: https://prettylitter.com
   suggested_slug: pretty-litter
   sector: consumer-commerce
   source_vc: starting-line-vc
-  source: ''
+  source: https://www.startingline.vc/portfolio
   stub_created: false
 - name: Rockstar
   url: ''
   suggested_slug: rockstar
   sector: hr-tech
   source_vc: starting-line-vc
-  source: ''
+  source: https://www.startingline.vc/portfolio
   stub_created: false
 - name: Reclip
   url: https://reclip.app
   suggested_slug: reclip
   sector: consumer-social
   source_vc: starting-line-vc
-  source: ''
+  source: https://www.startingline.vc/portfolio
   stub_created: false
 - name: Rise Science
   url: https://risescience.com
   suggested_slug: rise-science
   sector: consumer-health
   source_vc: starting-line-vc
-  source: ''
+  source: https://www.startingline.vc/portfolio
   stub_created: false
-- name: Sunbit
-  url: https://sunbit.com
-  suggested_slug: sunbit
-  sector: consumer-fintech
+- name: Spot
+  url: https://meetwithspot.com
+  suggested_slug: spot
+  sector: productivity
   source_vc: starting-line-vc
-  source: ''
+  source: https://www.startingline.vc/portfolio
   stub_created: false
 - name: Stillwater
   url: https://stillwater.life
   suggested_slug: stillwater
   sector: consumer-commerce
   source_vc: starting-line-vc
-  source: ''
+  source: https://www.startingline.vc/portfolio
   stub_created: false
 - name: Telly
   url: https://freetelly.com
   suggested_slug: telly
   sector: consumer-hardware
   source_vc: starting-line-vc
-  source: ''
+  source: https://www.startingline.vc/portfolio
   stub_created: false
 - name: The Players Trunk
   url: https://theplayerstrunk.com
   suggested_slug: the-players-trunk
   sector: consumer-marketplace
   source_vc: starting-line-vc
-  source: ''
+  source: https://www.startingline.vc/portfolio
   stub_created: false
 - name: Troveo
   url: https://troveo.ai
   suggested_slug: troveo
   sector: ai-data
   source_vc: starting-line-vc
-  source: ''
+  source: https://www.startingline.vc/portfolio
   stub_created: false
 - name: Truman's
   url: https://trumans.com
   suggested_slug: trumans
   sector: consumer-commerce
   source_vc: starting-line-vc
-  source: ''
+  source: https://www.startingline.vc/portfolio
+  stub_created: false
+- name: Vault
+  url: ''
+  suggested_slug: vault
+  sector: web3
+  source_vc: starting-line-vc
+  source: https://www.startingline.vc/portfolio
   stub_created: false
 - name: Ubiquitous Influence
   url: https://ubiquitousinfluence.com
   suggested_slug: ubiquitous-influence
   sector: advertising
   source_vc: starting-line-vc
-  source: ''
+  source: https://www.startingline.vc/portfolio
   stub_created: false
 - name: Umami Cart
   url: https://umamicart.com
   suggested_slug: umami-cart
   sector: consumer-marketplace
   source_vc: starting-line-vc
-  source: ''
+  source: https://www.startingline.vc/portfolio
   stub_created: false
 - name: Unchained Capital
   url: https://unchained-capital.com
-  suggested_slug: unchained-capital
+  suggested_slug: unchained-capital-com
   sector: web3
   source_vc: starting-line-vc
-  source: ''
+  source: https://www.startingline.vc/portfolio
   stub_created: false
 - name: Wumbo
   url: https://wum.bo
   suggested_slug: wumbo
   sector: web3
   source_vc: starting-line-vc
-  source: ''
+  source: https://www.startingline.vc/portfolio
   stub_created: false
 - name: Xena Workwear
   url: https://xenaworkwear.com
   suggested_slug: xena-workwear
   sector: consumer-commerce
   source_vc: starting-line-vc
-  source: ''
+  source: https://www.startingline.vc/portfolio
   stub_created: false
