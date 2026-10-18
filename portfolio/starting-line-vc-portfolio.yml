@@ -16,6 +16,7 @@ companies:
   in_network: false
   suggested_slug: attain-data
   is_api_provider: false
+  x-url-candidate: https://attaindata.com
 - name: Superpower
   description: AI-powered consumer health application offering personalized medical guidance.
   sector: consumer-health
@@ -23,6 +24,7 @@ companies:
   in_network: false
   suggested_slug: superpower
   is_api_provider: false
+  x-url-candidate: https://superpower.com
 - name: Every
   description: Multi-modal media company focused on AI coverage — newsletters and consulting.
   sector: media
@@ -30,7 +32,9 @@ companies:
   in_network: true
   slug: every
   is_api_provider: false
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.every.io/
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Made In Cookware
   url: https://madeincookware.com
   description: Direct-to-consumer cookware selling at 50-75% discounts by removing retail intermediaries.
@@ -46,6 +50,7 @@ companies:
   in_network: false
   suggested_slug: aavia
   is_api_provider: false
+  x-url-candidate: https://aavia.io
 - name: Agentio
   url: https://www.agentio.com
   description: Creator-led product placement platform for YouTube advertisers.
@@ -97,6 +102,7 @@ companies:
   in_network: false
   suggested_slug: brill
   is_api_provider: false
+  x-url-candidate: https://brill.com
 - name: Buncha
   url: https://www.gobuncha.com
   description: Next-day grocery delivery.
@@ -197,7 +203,9 @@ companies:
   in_network: true
   slug: forum
   is_api_provider: true
-  matched_by: name-slug
+  matched_by: domain
+  url: https://www.forum.market/
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Found
   description: AI workflow transformation consulting with embedded engineers.
   sector: ai-services
@@ -205,6 +213,7 @@ companies:
   in_network: false
   is_api_provider: false
   suggested_slug: found
+  x-url-candidate: https://found.com
 - name: FlyHomes
   url: https://flyhomes.com
   description: Home buying guarantee offer service.
@@ -229,6 +238,7 @@ companies:
   in_network: false
   suggested_slug: heroic
   is_api_provider: false
+  x-url-candidate: https://heroic.com
 - name: Hitch
   url: https://hitch.net
   description: Inter-city ridesharing marketplace.
@@ -277,8 +287,10 @@ companies:
   status: active
   in_network: true
   slug: imgflip
-  matched_by: name-slug
+  matched_by: domain
   is_api_provider: true
+  url: https://imgflip.com/
+  x-url-source: network-repo (title-verified 2026-10-18)
 - name: Klover
   url: https://joinklover.com
   description: Fee-free wage advance application.
@@ -344,6 +356,7 @@ companies:
   in_network: false
   suggested_slug: pineapple
   is_api_provider: false
+  x-url-candidate: https://namebrokers.com/pineapple/
 - name: Poplin
   url: https://poplin.co
   description: On-demand laundry service.
@@ -369,6 +382,7 @@ companies:
   in_network: false
   suggested_slug: rockstar
   is_api_provider: false
+  x-url-candidate: https://www.rockstargames.com/
 - name: Reclip
   url: https://reclip.app
   description: Authentic social memory platform.
@@ -495,6 +509,7 @@ companies:
   in_network: false
   is_api_provider: false
   suggested_slug: vault
+  x-url-candidate: https://vault.com
 - name: Ubiquitous Influence
   url: https://ubiquitousinfluence.com
   description: Influencer campaign management.
