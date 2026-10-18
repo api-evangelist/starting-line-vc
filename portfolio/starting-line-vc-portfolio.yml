@@ -4,9 +4,9 @@ source: https://www.startingline.vc/portfolio
 type: Portfolio
 summary:
   portfolio_total: 64
-  in_network: 21
+  in_network: 22
   api_providers: 3
-  missing: 43
+  missing: 42
   stubs_created: 0
 companies:
 - name: Attain Data
@@ -16,15 +16,17 @@ companies:
   in_network: false
   suggested_slug: attain-data
   is_api_provider: false
-  x-url-candidate: https://attaindata.com
+  x-url-rejected: https://attaindata.com
 - name: Superpower
   description: AI-powered consumer health application offering personalized medical guidance.
   sector: consumer-health
   status: active
-  in_network: false
-  suggested_slug: superpower
+  in_network: true
   is_api_provider: false
-  x-url-candidate: https://superpower.com
+  url: https://superpower.com
+  x-url-source: web check 2026-10-18 (confirmed)
+  slug: superpower-health
+  matched_by: domain
 - name: Every
   description: Multi-modal media company focused on AI coverage — newsletters and consulting.
   sector: media
@@ -50,7 +52,8 @@ companies:
   in_network: false
   suggested_slug: aavia
   is_api_provider: false
-  x-url-candidate: https://aavia.io
+  url: https://aavia.io
+  x-url-source: web check 2026-10-18 (confirmed)
 - name: Agentio
   url: https://www.agentio.com
   description: Creator-led product placement platform for YouTube advertisers.
@@ -102,7 +105,7 @@ companies:
   in_network: false
   suggested_slug: brill
   is_api_provider: false
-  x-url-candidate: https://brill.com
+  x-url-rejected: https://brill.com
 - name: Buncha
   url: https://www.gobuncha.com
   description: Next-day grocery delivery.
@@ -213,7 +216,7 @@ companies:
   in_network: false
   is_api_provider: false
   suggested_slug: found
-  x-url-candidate: https://found.com
+  x-url-rejected: https://found.com
 - name: FlyHomes
   url: https://flyhomes.com
   description: Home buying guarantee offer service.
@@ -238,7 +241,7 @@ companies:
   in_network: false
   suggested_slug: heroic
   is_api_provider: false
-  x-url-candidate: https://heroic.com
+  x-url-rejected: https://heroic.com
 - name: Hitch
   url: https://hitch.net
   description: Inter-city ridesharing marketplace.
@@ -356,7 +359,7 @@ companies:
   in_network: false
   suggested_slug: pineapple
   is_api_provider: false
-  x-url-candidate: https://namebrokers.com/pineapple/
+  x-url-rejected: https://namebrokers.com/pineapple/
 - name: Poplin
   url: https://poplin.co
   description: On-demand laundry service.
@@ -382,7 +385,7 @@ companies:
   in_network: false
   suggested_slug: rockstar
   is_api_provider: false
-  x-url-candidate: https://www.rockstargames.com/
+  x-url-rejected: https://www.rockstargames.com/
 - name: Reclip
   url: https://reclip.app
   description: Authentic social memory platform.
@@ -509,7 +512,7 @@ companies:
   in_network: false
   is_api_provider: false
   suggested_slug: vault
-  x-url-candidate: https://vault.com
+  x-url-rejected: https://vault.com
 - name: Ubiquitous Influence
   url: https://ubiquitousinfluence.com
   description: Influencer campaign management.

@@ -9,13 +9,6 @@ leads:
   source_vc: starting-line-vc
   source: https://www.startingline.vc/portfolio
   stub_created: false
-- name: Superpower
-  url: ''
-  suggested_slug: superpower
-  sector: consumer-health
-  source_vc: starting-line-vc
-  source: https://www.startingline.vc/portfolio
-  stub_created: false
 - name: Made In Cookware
   url: https://madeincookware.com
   suggested_slug: made-in-cookware
@@ -24,7 +17,7 @@ leads:
   source: https://www.startingline.vc/portfolio
   stub_created: false
 - name: Aavia
-  url: ''
+  url: https://aavia.io
   suggested_slug: aavia
   sector: consumer-health
   source_vc: starting-line-vc
